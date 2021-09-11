@@ -1,0 +1,7 @@
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\bin\Debug\AprendendoLista.exe.config
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\bin\Debug\AprendendoLista.exe
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\bin\Debug\AprendendoLista.pdb
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\obj\Debug\AprendendoLista.csprojAssemblyReference.cache
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\obj\Debug\AprendendoLista.csproj.CoreCompileInputs.cache
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\obj\Debug\AprendendoLista.exe
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoLista\obj\Debug\AprendendoLista.pdb

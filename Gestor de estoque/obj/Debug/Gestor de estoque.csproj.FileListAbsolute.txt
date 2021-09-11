@@ -1,0 +1,14 @@
+C:\Users\Wesle\source\repos\Gestor de estoque\bin\Debug\Gestor de estoque.exe.config
+C:\Users\Wesle\source\repos\Gestor de estoque\bin\Debug\Gestor de estoque.exe
+C:\Users\Wesle\source\repos\Gestor de estoque\bin\Debug\Gestor de estoque.pdb
+C:\Users\Wesle\source\repos\Gestor de estoque\obj\Debug\Gestor de estoque.csprojAssemblyReference.cache
+C:\Users\Wesle\source\repos\Gestor de estoque\obj\Debug\Gestor de estoque.csproj.CoreCompileInputs.cache
+C:\Users\Wesle\source\repos\Gestor de estoque\obj\Debug\Gestor de estoque.exe
+C:\Users\Wesle\source\repos\Gestor de estoque\obj\Debug\Gestor de estoque.pdb
+G:\Desenvolvimento C#\Curso\Gestor de estoque\bin\Debug\Gestor de estoque.exe.config
+G:\Desenvolvimento C#\Curso\Gestor de estoque\bin\Debug\Gestor de estoque.exe
+G:\Desenvolvimento C#\Curso\Gestor de estoque\bin\Debug\Gestor de estoque.pdb
+G:\Desenvolvimento C#\Curso\Gestor de estoque\obj\Debug\Gestor de estoque.csprojAssemblyReference.cache
+G:\Desenvolvimento C#\Curso\Gestor de estoque\obj\Debug\Gestor de estoque.csproj.CoreCompileInputs.cache
+G:\Desenvolvimento C#\Curso\Gestor de estoque\obj\Debug\Gestor de estoque.exe
+G:\Desenvolvimento C#\Curso\Gestor de estoque\obj\Debug\Gestor de estoque.pdb

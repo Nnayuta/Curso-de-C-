@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoArquivos", "AprendendoArquivos.csproj", "{703B5C22-A958-410D-85E7-618D0EBCD9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703B5C22-A958-410D-85E7-618D0EBCD9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703B5C22-A958-410D-85E7-618D0EBCD9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703B5C22-A958-410D-85E7-618D0EBCD9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703B5C22-A958-410D-85E7-618D0EBCD9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5386967-CBB7-435D-B186-8B9015DBDDE8}
+	EndGlobalSection
+EndGlobal

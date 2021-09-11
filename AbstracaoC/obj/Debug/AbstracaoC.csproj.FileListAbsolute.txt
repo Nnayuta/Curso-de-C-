@@ -1,0 +1,14 @@
+G:\Nayuta\Desktop\Curso\AbstracaoC\bin\Debug\AbstracaoC.exe.config
+G:\Nayuta\Desktop\Curso\AbstracaoC\bin\Debug\AbstracaoC.exe
+G:\Nayuta\Desktop\Curso\AbstracaoC\bin\Debug\AbstracaoC.pdb
+G:\Nayuta\Desktop\Curso\AbstracaoC\obj\Debug\AbstracaoC.csprojAssemblyReference.cache
+G:\Nayuta\Desktop\Curso\AbstracaoC\obj\Debug\AbstracaoC.csproj.CoreCompileInputs.cache
+G:\Nayuta\Desktop\Curso\AbstracaoC\obj\Debug\AbstracaoC.exe
+G:\Nayuta\Desktop\Curso\AbstracaoC\obj\Debug\AbstracaoC.pdb
+G:\Desenvolvimento C#\Curso\AbstracaoC\bin\Debug\AbstracaoC.exe.config
+G:\Desenvolvimento C#\Curso\AbstracaoC\bin\Debug\AbstracaoC.exe
+G:\Desenvolvimento C#\Curso\AbstracaoC\bin\Debug\AbstracaoC.pdb
+G:\Desenvolvimento C#\Curso\AbstracaoC\obj\Debug\AbstracaoC.csprojAssemblyReference.cache
+G:\Desenvolvimento C#\Curso\AbstracaoC\obj\Debug\AbstracaoC.csproj.CoreCompileInputs.cache
+G:\Desenvolvimento C#\Curso\AbstracaoC\obj\Debug\AbstracaoC.exe
+G:\Desenvolvimento C#\Curso\AbstracaoC\obj\Debug\AbstracaoC.pdb

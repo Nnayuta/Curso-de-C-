@@ -1,0 +1,14 @@
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\bin\Debug\AprendendoArquivoBinario.exe.config
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\bin\Debug\AprendendoArquivoBinario.exe
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\bin\Debug\AprendendoArquivoBinario.pdb
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\obj\Debug\AprendendoArquivoBinario.csprojAssemblyReference.cache
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\obj\Debug\AprendendoArquivoBinario.csproj.CoreCompileInputs.cache
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\obj\Debug\AprendendoArquivoBinario.exe
+G:\Nayuta\Desktop\Curso\AprendendoArquivoBinario\obj\Debug\AprendendoArquivoBinario.pdb
+G:\Desenvolvimento C#\Curso\ArquivoBinario\bin\Debug\AprendendoArquivoBinario.exe.config
+G:\Desenvolvimento C#\Curso\ArquivoBinario\bin\Debug\AprendendoArquivoBinario.exe
+G:\Desenvolvimento C#\Curso\ArquivoBinario\bin\Debug\AprendendoArquivoBinario.pdb
+G:\Desenvolvimento C#\Curso\ArquivoBinario\obj\Debug\AprendendoArquivoBinario.csprojAssemblyReference.cache
+G:\Desenvolvimento C#\Curso\ArquivoBinario\obj\Debug\AprendendoArquivoBinario.csproj.CoreCompileInputs.cache
+G:\Desenvolvimento C#\Curso\ArquivoBinario\obj\Debug\AprendendoArquivoBinario.exe
+G:\Desenvolvimento C#\Curso\ArquivoBinario\obj\Debug\AprendendoArquivoBinario.pdb

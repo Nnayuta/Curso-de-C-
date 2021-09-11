@@ -1,0 +1,10 @@
+C:\Users\Wesle\source\repos\Http\bin\Debug\Http.exe.config
+C:\Users\Wesle\source\repos\Http\bin\Debug\Http.exe
+C:\Users\Wesle\source\repos\Http\bin\Debug\Http.pdb
+C:\Users\Wesle\source\repos\Http\obj\Debug\Http.csprojAssemblyReference.cache
+C:\Users\Wesle\source\repos\Http\obj\Debug\Http.csproj.CoreCompileInputs.cache
+C:\Users\Wesle\source\repos\Http\obj\Debug\Http.exe
+C:\Users\Wesle\source\repos\Http\obj\Debug\Http.pdb
+C:\Users\Wesle\source\repos\Http\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wesle\source\repos\Http\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wesle\source\repos\Http\obj\Debug\Http.csproj.CopyComplete

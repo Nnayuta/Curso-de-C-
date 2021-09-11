@@ -1,0 +1,7 @@
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\bin\Debug\AprendendoArquivos.exe.config
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\bin\Debug\AprendendoArquivos.exe
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\bin\Debug\AprendendoArquivos.pdb
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\obj\Debug\AprendendoArquivos.csprojAssemblyReference.cache
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\obj\Debug\AprendendoArquivos.csproj.CoreCompileInputs.cache
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\obj\Debug\AprendendoArquivos.exe
+G:\Nayuta\Desktop\Curso\ListaAprendendo\AprendendoArquivos\obj\Debug\AprendendoArquivos.pdb
